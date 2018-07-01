@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1520628195 source:/home/andreu/Dropbox/IFSC/Gaspar/Tecnólogo em ADS/Estruturas de Dados/exemplos/lista_seq/main.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+
+1520881023 /home/andreu/Dropbox/IFSC/Gaspar/Tecnólogo em ADS/Estruturas de Dados/exemplos/lista_seq/lista.h
+
+1520628121 source:/home/andreu/Dropbox/IFSC/Gaspar/Tecnólogo em ADS/Estruturas de Dados/exemplos/lista_seq/lista.c
+	<stdlib.h>
+	"lista.h"
+
